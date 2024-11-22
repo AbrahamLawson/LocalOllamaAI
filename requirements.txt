@@ -1,0 +1,4 @@
+flask
+dropbox
+PyPDF2
+ollama
